@@ -1,5 +1,8 @@
 [简体中文](./README.zh.md) | English
 
+漂亮的 WPF UI 可參考
+
+
 # SimpleAISearch✨
 
 ## Implement a simple AI search using C# Semantic Kernel and DuckDuckGo.✨
